@@ -9,7 +9,8 @@
   I'm also 15 year old this year, birthdate: 8th Feb </p>
   <p>My Discord username is: Rylauls <br/>
   My Roblox username is: Killer_ryan3 <br/>
-  And this is my Steam friend code: 1284858300 </p>
+  And this is my Steam friend code: 1284858300 <br/>
+  YOu can also check out my YT channel which I have a screwed up schedule: Rylau/Rylauls</p>
   <p>I might add more but I'm lazy, and this is all coded in HTML, I only did it bc I wanted to. :P</p>
   <h3>Okay byeee!! ^O^</h3>
 </body>
